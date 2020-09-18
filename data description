@@ -1,1 +1,7 @@
-
+num.picture...identifikátor obrázku použitého v daném městě
+id...identifikátor účastníka
+task1...Byl(a) jste někdy na tomto místě? 0 = ano, 1 = ne
+task2...Jak byste popsal(a) teplotu, kterou byste na tomto místě vnímal(a) BĚHEM VLNY VEDER? 0 = Chladno, 1 = Chladněji, 2 = Neutrálně, 3 = Tepleji, 4 = Teplo, 5 = Horko, 6 = Extrémní horko
+task3...Jak byste se na tomto místě cítil(a) BĚHEM VLNY VEDER? 0 = Extrémně nepříjemně, 1 = Velmi nepříjemně, 2 = Nepříjemně, 3 = Neutrálně, 4 = Příjemně, 5 = Velmi příjemně, 6 = Extrémně příjemně
+x...zeměpisná šířka
+y...zeměpisná délka

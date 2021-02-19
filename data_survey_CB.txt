@@ -1,4 +1,4 @@
-"","num.picture","id","task1","task2","task3","x","y"
+"","num.picture","id","task1","task2","task3","latitude","longitude"
 "1",2,"1565643417_endCB863d9b8b90c51edf10a4d466f5c4a305.csv",1,4,3,48.9543356722974,14.4901699648275
 "2",2,"1567011861_lastTrial2endCB20b0faff-3116-2fe2-925b-cc9b4dd7fe38.csv",1,2,4,48.9543356722974,14.4901699648275
 "3",2,"1567001165_lastTrial2endCB41597fd1-82e6-ab56-7b75-497242ce7d0d.csv",1,5,2,48.9543356722974,14.4901699648275

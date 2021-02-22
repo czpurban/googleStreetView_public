@@ -1,7 +1,10 @@
 num.picture...identifikátor obrázku použitého v daném městě
-id...identifikátor účastníka
+id...unikátní identifikátor účastníka
 task1...Byl(a) jste někdy na tomto místě? 0 = ano, 1 = ne
 task2...Jak byste popsal(a) teplotu, kterou byste na tomto místě vnímal(a) BĚHEM VLNY VEDER? 0 = Chladno, 1 = Chladněji, 2 = Neutrálně, 3 = Tepleji, 4 = Teplo, 5 = Horko, 6 = Extrémní horko
 task3...Jak byste se na tomto místě cítil(a) BĚHEM VLNY VEDER? 0 = Extrémně nepříjemně, 1 = Velmi nepříjemně, 2 = Nepříjemně, 3 = Neutrálně, 4 = Příjemně, 5 = Velmi příjemně, 6 = Extrémně příjemně
 latitude...zeměpisná šířka
 longitude...zeměpisná délka
+gender...gender of the paerticipant (0 = male, 1 = female)
+educ...education level of the participant (0 = elementary; 1 = secondary without leaving exam, i.e., "středoškolské bez maturity"; 2 = secondary with leaving exam, i.e. "středoškolské s maturitou"; 3 = tertiary, i.e., "vysokoškolské")
+age...age of the participant in years (values < 10 or missing values coded as NA)

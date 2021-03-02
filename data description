@@ -8,3 +8,12 @@ longitude...zeměpisná délka
 gender...gender of the paerticipant (0 = male, 1 = female)
 educ...education level of the participant (0 = elementary; 1 = secondary without leaving exam, i.e., "středoškolské bez maturity"; 2 = secondary with leaving exam, i.e. "středoškolské s maturitou"; 3 = tertiary, i.e., "vysokoškolské")
 age...age of the participant in years (values < 10 or missing values coded as NA)
+
+
+Hodnocení atributů fotografií posuzovateli (zatím pouze vzorek ČB)
+Rating1 (zataženo): Požádáme Vás, abyste u každého místa uvedl(a), jestli byl pořízen, když bylo zataženo (mraky zakrývají celou oblohu).
+Rating2 (voda): Nyní Vám ukážeme stejné snímky. Vidíte na nich nějaké vodní plochy (např. řeky, potoky, rybníky, nádrže)?
+Rating3 (stromy 30): Opět Vám ukážeme stejné snímky. Jsou ve vzdálenosti do 30 mětrů od pozorovatele nějaké stromy? Jako místo pozorovatele bereme bod odkud byly snímky pořízeny.
+Rating4 (stromy 5): Opět Vám ukážeme stejné fotografie. Určete prosím, jestli jsou v bezprostřední blízkosti pozorovatele (do 5 metrů od pozorovatele) stromy.
+Rating5 (keře): Opět Vám ukážeme stejné fotografie. Určete prosím, jestli jsou v bezprostřední blízkosti pozorovatele (do 5 metrů od pozorovatele) keře nebo tráva.
+Rating6 (stínění): Poslední kolo. Je stanoviště pozorovatele zastíněno někdy během dne umělou konstrukcí (např. domem, mostem) nebo zelení (stromy)?
